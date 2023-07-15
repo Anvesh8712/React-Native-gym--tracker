@@ -66,8 +66,8 @@ This app is provided as a demonstration and should not be used as a substitute f
 
 ## Screenshots
 
-![1](screenshots\number1.jpg)
+![Screenshot 1](https://github.com/Anvesh8712/React-goal-tracker/blob/master/screenshots/number1.jpg)
 
-![2](screenshots\number2.jpg)
+![ScreenShot 2](https://github.com/Anvesh8712/React-goal-tracker/blob/master/screenshots/number2.jpg)
 
-![3](screenshots\number3.jpg)
+![ScreenShot 3](https://github.com/Anvesh8712/React-goal-tracker/blob/master/screenshots/number3.jpg)
